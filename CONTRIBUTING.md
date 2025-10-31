@@ -53,4 +53,4 @@ If you find a bug or have a feature request, please [open an issue](https://gith
 
 If you have any questions, feel free to open an issue or start a discussion.
 
-Thank you for helping make AI Tutor better!
+Quick Thank you for helping make AI Tutor better !
